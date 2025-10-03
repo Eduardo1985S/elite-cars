@@ -103,10 +103,6 @@
 ```
 elite-cars/
 │
-├── 📁 .github/                 # Templates do GitHub
-│   ├── ISSUE_TEMPLATE.md      # Template para issues
-│   └── PULL_REQUEST_TEMPLATE.md # Template para PRs
-│
 ├── 📁 assets/
 │   ├── 📁 css/
 │   │   └── styles.css         # Estilos principais
@@ -114,21 +110,8 @@ elite-cars/
 │   │   └── script.js          # JavaScript principal
 │   └── 📁 images/             # Imagens do projeto
 │
-├── 📁 docs/
-│   ├── CHANGELOG.md           # Histórico de mudanças
-│   ├── CONTRIBUTING.md        # Guia de contribuição
-│   ├── DEPLOYMENT.md          # Guia de deploy
-│   └── STYLE_GUIDE.md         # Guia de estilo
-│
-├── .editorconfig              # Configuração do editor
-├── .eslintrc.json             # Configuração ESLint
-├── .gitignore                 # Arquivos ignorados
-├── .prettierrc                # Configuração Prettier
 ├── index.html                 # Página principal
-├── LICENSE                    # Licença MIT
-├── package.json               # Dependências e scripts
-├── README.md                  # Documentação
-└── SECURITY.md                # Política de segurança
+└── README.md                  # Documentação
 ```
 
 ---
@@ -242,15 +225,13 @@ Altere no CSS:
 
 ## 🤝 Contribuindo
 
-Contribuições são sempre bem-vindas! Veja como você pode ajudar:
+Contribuições são sempre bem-vindas! 
 
 1. 🍴 Fork o projeto
 2. 🌿 Crie sua branch (`git checkout -b feature/MinhaFeature`)
 3. ✅ Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
 4. 📤 Push para a branch (`git push origin feature/MinhaFeature`)
 5. 🎉 Abra um Pull Request
-
-Leia nosso [Guia de Contribuição](docs/CONTRIBUTING.md) para mais detalhes.
 
 ---
 
